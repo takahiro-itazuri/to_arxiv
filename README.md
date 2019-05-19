@@ -1,8 +1,10 @@
 # Memo for arXiv submission
+---
 ## Available or Not
 - \input command -> OK, but not recommended.
 - include pdf image -> OK
 
+---
 ## Errors
 ### ! LaTeX Error: Option clash for package hyperref.
 Comment out hyperref package.
@@ -13,7 +15,8 @@ Comment out hyperref package.
 ### ! LaTeX Error: Environment subfigure undefined.
 ? -> This error is fixed before I knew it.
 
-## Things to Note
+---
+## Recommendation
 - Merge multiple tex files into single tex file.
 - Remove unnecessary packages.
 - Upload multiple files via tar compression.
