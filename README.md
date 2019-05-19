@@ -1,6 +1,6 @@
 # Memo for arXiv submission
 ## Available or Not
-- \input command -> OK
+- \input command -> OK, but not recommended.
 - include pdf image -> OK
 
 ## Errors
