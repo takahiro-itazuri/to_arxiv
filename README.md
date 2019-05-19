@@ -3,6 +3,7 @@
 ## Available or Not
 - \input command -> OK, but not recommended.
 - include pdf image -> OK
+- bib file -> NG, convert bib to bbl.
 
 ---
 ## Errors
